@@ -1,0 +1,214 @@
+.body{
+    background-color: black;
+    font-family: Inter;
+    color: white;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+.svg{
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    height: 75px;
+    position: absolute;
+    
+
+}
+.header__text1{
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    height: 75px;
+    position: absolute;
+    margin-left: 45px;
+   
+
+}
+.text2{
+    font-size: 16px;
+    font-weight: medium;
+    height: 75px;
+    position: absolute;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    max-height: 1200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: flex-start;
+
+
+}
+.header__row{
+    display: flex;
+    /*justify-content: space-between;*/
+    margin-left: auto;
+
+
+}
+.text3{
+    font-size: 16px;
+    font-weight: medium;
+    height: 75px;
+    position: absolute;
+    right: 10%;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+
+
+
+}
+.counteiner{
+    height: 476px;
+    width: 224px;
+    box-sizing: border-box;
+    background-color: rgb(152, 152, 152);
+    position: absolute;
+    padding: 20px;
+    translate: 0px 360px ;
+}
+.counteiner1{
+    height: 476px;
+    width: 224px;
+    box-sizing: border-box;
+    background-color: rgb(36, 36, 36);
+    position: absolute;
+    padding: 20px;
+    translate: 0px 360px ;
+    border-radius: 20px;
+}
+.counteiner2{
+    height: 476px;
+    width: 224px;
+    box-sizing: border-box;
+    background-color: rgb(36, 36, 36);
+    position: absolute;
+    padding: 20px;
+    translate: 244px 360px ;
+    border-radius: 20px;
+}
+.counteiner3{
+    height: 476px;
+    width: 224px;
+    box-sizing: border-box;
+    background-color: rgb(36, 36, 36);
+    position: absolute;
+    padding: 20px;
+    translate: 488px 360px ;
+    border-radius: 20px;
+}
+.counteiner4{
+    height: 476px;
+    width: 224px;
+    box-sizing: border-box;
+    background-color: rgb(36, 36, 36);
+    position: absolute;
+    padding: 20px;
+    translate: 732px 360px ;
+    border-radius: 20px;
+}
+.counteiner5{
+    height: 476px;
+    width: 224px;
+    box-sizing: border-box;
+    background-color: rgb(36, 36, 36);
+    position: absolute;
+    padding: 20px;
+    translate: 976px 360px ;
+    border-radius: 20px;
+}
+.counteiner1_2{
+    height: 476px;
+    width: 224px;
+    box-sizing: border-box;
+    background-color: rgb(36, 36, 36);
+    position: absolute;
+    padding: 20px;
+    translate: 0px 856px ;
+    border-radius: 20px;
+}
+.counteiner2_2{
+    height: 476px;
+    width: 224px;
+    box-sizing: border-box;
+    background-color: rgb(36, 36, 36);
+    position: absolute;
+    padding: 20px;
+    translate: 244px 856px ;
+    border-radius: 20px;
+}
+.counteiner3_2{
+    height: 476px;
+    width: 224px;
+    box-sizing: border-box;
+    background-color: rgb(36, 36, 36);
+    position: absolute;
+    padding: 20px;
+    translate: 488px 856px ;
+    border-radius: 20px;
+}
+.counteiner4_2{
+    height: 476px;
+    width: 224px;
+    box-sizing: border-box;
+    background-color: rgb(36, 36, 36);
+    position: absolute;
+    padding: 20px;
+    translate: 732px 856px ;
+    border-radius: 20px;
+}
+.counteiner5_2{
+    height: 476px;
+    width: 224px;
+    box-sizing: border-box;
+    background-color: rgb(36, 36, 36);
+    position: absolute;
+    padding: 20px;
+    translate: 976px 856px ;
+    border-radius: 20px;
+}
+.down{
+    box-sizing: border-box;
+    position: absolute;
+    height: 60px;
+    width: 1200px;
+    margin: 100% auto;
+}
+.title{
+    box-sizing: border-box;
+    position: absolute;
+    font-size: 48px;
+    height: 60px;
+    width: 1200px;
+    margin: 135px 0px;
+}
+.tetxmini{
+    font-size: 14;
+    font-weight: normal;
+    color: rgb(152, 152, 152);
+
+}
+.tetxmax{
+    font-size: 20;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+
+}
+.button{
+    font-size: 14;
+    font-weight: bolder;
+    color: rgb(255, 156, 7);
+    text-align: center;
+    align-items: end;
+    border: 2px solid rgb(255, 156, 7);
+    padding: 0 auto; 
+    border-radius: 10px;
+    height: 44px;
+    width: 184px;
+    text-align: center;
+}
